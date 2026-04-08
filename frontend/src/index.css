@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-magenta-50: #F8E8EF;
+  --color-magenta-100: #F1D0DF;
+  --color-magenta-200: #E8A0BC;
+  --color-magenta-500: #C2185B;
+  --color-magenta-600: #B0154F;
+  --color-magenta-700: #9C1449;
+}
